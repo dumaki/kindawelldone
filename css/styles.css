@@ -1,0 +1,27 @@
+
+/* Nav Bar */
+
+.circular {
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+/* Footer Section */
+
+#footer {
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+.p-footer {
+  color: grey;
+}
